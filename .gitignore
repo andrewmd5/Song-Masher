@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+*.config
+*.pref
+*.subtle
+*.7zip
